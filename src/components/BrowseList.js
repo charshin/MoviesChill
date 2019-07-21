@@ -42,7 +42,7 @@ export default withStyles(styles)(({
       <Grid item xs={12} container justify="space-between">
         <Grid item>
           <Typography variant="h6" component="h2">
-            Popular Movies (Test CI/CD)
+            Popular Movies
           </Typography>
         </Grid>
         <Grid item>
